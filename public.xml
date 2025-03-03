@@ -10,7 +10,7 @@
       <creator>dynobot</creator>
       <email>your-email@example.com</email> <!-- Replace with your email -->
       <url>https://github.com/dynobot/opal-material/releases/download/v1.0.0/opal-material-v1.0.0.zip</url>
-      <sha>a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0</sha> <!-- Replace with your SHA1 hash -->
+      <sha>8a8fb380911be7d9ee04d98db658b840a594eb6b</sha> <!-- Replace with your SHA1 hash -->
       <changes lang="EN">
         - Initial release of Opal Material, based on lms-material 5.3.4.
         - Customized for personal use by dynobot.
